@@ -8,3 +8,11 @@ What it looks like after :Fixcss : https://gist.github.com/1155063
 You can put the function in your .vimrc or save the script in $VIMRUNTIME/scripts
 
 Updated version: https://github.com/dbb/vim/raw/master/FixCSS.vim
+
+==============
+
+Modified by allenm
+
+The result is more beautiful and more smart
+Example of junk CSS: https://gist.github.com/3650803
+What it looks like after :Fixcss : https://gist.github.com/3650873
